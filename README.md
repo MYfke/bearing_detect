@@ -1,8 +1,6 @@
 # [深度应用]·DC竞赛轴承故障检测开源Baseline（基于Keras1D卷积 val_acc:0.99780）
 
-> 个人网站--> [http://www.yansongsong.cn](http://www.yansongsong.cn/)
-> 
-> Github项目地址--> [https://github.com/xiaosongshine/bearing_detection_by_conv1d](https://github.com/xiaosongshine/bearing_detection_by_conv1d)
+
 
   
 
